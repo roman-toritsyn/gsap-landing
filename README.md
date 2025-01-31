@@ -11,5 +11,3 @@ Smooth Scrolling: Enhanced user experience with smooth scrolling effects.
 
 ## 🚀 Live Demo
 🔗 [Smooth Landing](https://gsap-landing-pi.vercel.app)
-
-Check out the live demo: Live Preview
